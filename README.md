@@ -14,4 +14,6 @@ Multiple primer support
 FASTA format compatibility
 
 Visualization of binding sites
-👩‍💻 Developed by Maimuna Tabassum
+
+
+Developed by Maimuna Tabassum
